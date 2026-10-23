@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://awaissattar763-ctrl.github.io/local-seo-portfolio/sitemap.xml
